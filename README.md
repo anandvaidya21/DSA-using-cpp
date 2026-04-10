@@ -54,7 +54,7 @@ Queue
 Trees
 Binary Search Tree
 Heap / Priority Queue
-Graph
+Graph.
 
 🔹 Algorithms
 
